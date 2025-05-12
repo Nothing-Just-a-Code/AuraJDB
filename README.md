@@ -30,7 +30,7 @@ AuraJDB is ideal for applications that need fast, reliable, file-based storage u
 
 ## 📦 Installation
 
-Install via **NuGet Package Manager**:
+Install via **NuGet Package Manager**
 
 ```powershell
 Install-Package AuraJDB
