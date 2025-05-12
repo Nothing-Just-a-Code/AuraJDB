@@ -1,57 +1,78 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Nothing-Just-a-Code/AuraJDB/total?style=for-the-badge)
 
 
-# AuraJDB
 
-**AuraJDB** is a high-performance, lightweight JSON-based database solution for **VB.NET** applications. Designed for local storage scenarios, it allows developers to persist structured data without the complexity of traditional database engines.
+<h1 align="center" style="font-weight: bold;">AuraJDB</h1>
 
-AuraJDB is ideal for applications that need fast, reliable, file-based storage using familiar VB.NET data types such as `Dictionary` and `List`.
 
----
+<p align="center">AuraJDB is a high-performance, lightweight JSON-based database solution for VB.NET applications. Designed for local storage scenarios, it allows developers to persist structured data without the complexity of traditional database engines.
 
-## 🔧 Features
+AuraJDB is ideal for applications that need fast, reliable, file-based storage using familiar VB.NET data types such as Dictionary and List.</p>
 
-- 🧾 **File-Based JSON Storage**  
-  Simple and human-readable data persistence.
 
-- ⚡ **In-Memory Access**  
-  Optimized for speed by caching data in memory with optional periodic syncing.
 
-- 🧱 **Key-Value Data Model**  
-  Access and manipulate objects through straightforward key-value logic.
+<h2 id="technologies">💻 Features</h2>
 
-- 🧩 **AuraList and Dictionary Support**  
-  Compatible with custom types and nested structures, including support for AuraList.
+    🧾 File-Based JSON Storage
+    Simple and human-readable data persistence.
 
-- ✅ **No External Dependencies**  
-  Only depends on `Newtonsoft.Json`. No database servers or engines required.
+    ⚡ In-Memory Access
+    Optimized for speed by caching data in memory with optional periodic syncing.
 
----
+    🧱 Key-Value Data Model
+    Access and manipulate objects through straightforward key-value logic.
 
-## 📦 Installation
+    🧩 AuraList and Dictionary Support
+    Compatible with custom types and nested structures, including support for AuraList.
 
-Install via **NuGet Package Manager**
+    ✅ No External Dependencies
+    Only depends on Newtonsoft.Json. No database servers or engines required.
 
-```powershell
-Install-Package AuraJDB
 
-## 🚀 **Quick Start**
-1. Import the Namespace
-<pre lang="markdown"> ```vbnet Imports AuraJDB
- ``` </pre>
+<h3>Prerequisites</h3>
 
-2. Initialize the Database
-<pre lang="markdown"> ```vbnet Dim db As New AuraJDB("data.json")
- ``` </pre>
+You need these libraries to use AuraJDB.
 
-3. Write Data
-<pre lang="markdown"> ```vbnet db.Write("user123", New With {
+- [Newtonsoft.Json](https://www.newtonsoft.com/jsonschema)
+
+<h3>Cloning</h3>
+
+How to clone your project
+
+```bash
+git clone https://github.com/Nothing-Just-a-Code/AuraJDB.git
+```
+
+<h3>Starting</h3>
+
+```bash
+Imports AuraJDB
+```
+
+<h2 id="routes">📦 How to Use</h2>
+
+<h3 id="get-auth-detail">Initialize the Database</h3>
+
+**Code**
+```vbnet
+Dim db As New AuraJDB("data.json")
+```
+
+<h3 id="post-auth-detail">Write Data</h3>
+
+**Code**
+```vbnet
+db.Write("user123", New With {
     .username = "zeus",
     .level = 42,
     .roles = New List(Of String) From {"admin", "mod"}
 })
- ``` </pre>
+```
 
-4. Read Data
-<pre lang="markdown"> ```vbnet Dim user = db.GetSingleItem(dbpath, "key")
- ``` </pre>
+
+<h3 id="post-auth-detail">Read Data</h3>
+
+**Code**
+```vbnet
+Dim user = db.GetSingleItem(dbpath, "key")
+```
