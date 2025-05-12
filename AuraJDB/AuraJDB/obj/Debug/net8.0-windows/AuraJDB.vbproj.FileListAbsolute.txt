@@ -1,0 +1,12 @@
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\bin\Debug\net8.0-windows\AuraJDB.deps.json
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\bin\Debug\net8.0-windows\AuraJDB.dll
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\bin\Debug\net8.0-windows\AuraJDB.pdb
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\obj\Debug\net8.0-windows\AuraJDB.vbproj.AssemblyReference.cache
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\obj\Debug\net8.0-windows\AuraJDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\obj\Debug\net8.0-windows\AuraJDB.AssemblyInfoInputs.cache
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\obj\Debug\net8.0-windows\AuraJDB.AssemblyInfo.vb
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\obj\Debug\net8.0-windows\AuraJDB.vbproj.CoreCompileInputs.cache
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\obj\Debug\net8.0-windows\AuraJDB.dll
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\obj\Debug\net8.0-windows\refint\AuraJDB.dll
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\obj\Debug\net8.0-windows\AuraJDB.pdb
+C:\Users\Kabir\source\repos\AuraJDB\AuraJDB\obj\Debug\net8.0-windows\ref\AuraJDB.dll

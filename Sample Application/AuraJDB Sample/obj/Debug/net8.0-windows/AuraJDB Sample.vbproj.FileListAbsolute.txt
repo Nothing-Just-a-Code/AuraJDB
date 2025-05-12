@@ -1,0 +1,21 @@
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\bin\Debug\net8.0-windows\AuraJDB Sample.exe
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\bin\Debug\net8.0-windows\AuraJDB Sample.deps.json
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\bin\Debug\net8.0-windows\AuraJDB Sample.runtimeconfig.json
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\bin\Debug\net8.0-windows\AuraJDB Sample.dll
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\bin\Debug\net8.0-windows\AuraJDB Sample.pdb
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\bin\Debug\net8.0-windows\AuraJDB.dll
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\bin\Debug\net8.0-windows\AuraJDB.pdb
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\AuraJDB Sample.vbproj.AssemblyReference.cache
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\AuraJDB_Sample.Form1.resources
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\AuraJDB Sample.vbproj.GenerateResource.cache
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\AuraJDB Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\AuraJDB Sample.AssemblyInfoInputs.cache
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\AuraJDB Sample.AssemblyInfo.vb
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\AuraJDB Sample.vbproj.CoreCompileInputs.cache
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\AuraJDB .B3D79207.Up2Date
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\AuraJDB Sample.dll
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\refint\AuraJDB Sample.dll
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\AuraJDB Sample.pdb
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\AuraJDB Sample.genruntimeconfig.cache
+C:\Users\Kabir\source\repos\AuraJDB Sample\AuraJDB Sample\obj\Debug\net8.0-windows\ref\AuraJDB Sample.dll

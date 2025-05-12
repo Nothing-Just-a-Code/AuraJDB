@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>AuraJDB</RootNamespace>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ApplicationIcon>Aura Icon.ico</ApplicationIcon>
+    <Title>AuraJDB</Title>
+    <Company>NJAC</Company>
+    <Authors>NJAC</Authors>
+    <Copyright></Copyright>
+    <PackageIcon>Aura Icon PNG.png</PackageIcon>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
+    <Description>AuraJDB is a lightweight and simple JSON-based database library for VB.NET, designed for small-scale applications that don't require the overhead of a full database engine. It provides easy read/write access to structured data using familiar .NET types like Dictionary and AuraList.</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Aura Icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\Aura Icon PNG.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>
