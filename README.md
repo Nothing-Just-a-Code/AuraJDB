@@ -1,7 +1,3 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Nothing-Just-a-Code/AuraJDB/total?style=for-the-badge)
-
-
-
 <h1 align="center" style="font-weight: bold;">AuraJDB</h1>
 
 
