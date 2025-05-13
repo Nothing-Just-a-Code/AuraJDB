@@ -38,6 +38,11 @@ How to clone your project
 ```bash
 git clone https://github.com/Nothing-Just-a-Code/AuraJDB.git
 ```
+Or install from Package Manager Console
+
+```bash
+Install-Package AuraJDB
+```
 
 <h3>Starting</h3>
 
